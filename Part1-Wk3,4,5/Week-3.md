@@ -18,9 +18,12 @@ Activity 2: Research the following topics and write one paragraph about each:
 - STIX and TAXII
 
 Answer:
+Threat intelligence is the collection, investigation, and sharing of information about current cyber threats. Understanding the tactics, techniques, vectors, etc of threat actors, the vulnerabilities in systems and the potential impacts that these vulnerabilities could have if exploited. By using the information gained and examined from threat intelligence, organisations can harden and proactively respond to attacks, or mitigate them altogether.
+
+Structured Threat Information eXpression (STIX) and Trusted Automated eXchange of Indicator Information (TAXII) are frameworks designed to improve the shareing of cyber threat intelligence. STIX acts as a common language for cyber threat information, which allows for easier and standardised descriptions of threat actors, attack types, and other data. TAXII includes the secure and automated exchange of this data to and from different enities.
 
 ---
-Activity 3: Understand what a threat model is by reading the provided artile. Describe any three threat models and give an example of each: 
+Activity 3: Understand what a threat model is by reading the provided article. Describe any three threat models and give an example of each: 
 - STRIDE
 - PnG
 - Security Cards
@@ -33,3 +36,7 @@ Activity 4: Describe the following concepts in one paragraph each:
 - MITRE ATT&CK
 
 Answer:
+The cyber kill chain is a framework designed by Lockheed MArtin to understand and defend against cyber threats by describing the stages of a cyber attack. There are seven steps: recon, weaponisation, delivery, exploitation, instalation, command and control, and actions on objectives. These stages represent a step in an attack's proccess, starting with gathering information about a system, implementing an exploit or social manipulation, to executing the goal of the attack. These stages can help break down and understand an attack and can help detect, prevent, or stop parts of the chain.
+
+MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) is a framework that extensively lists tactics, techniques, and proceedures (TTPs) used by threat actors. It is available globally and is organised into different tactics and techniques broken down across different stages of a potential attack. MITRE ATT&CK can be used to keep up to date with current threat detection and incident response, and in assessing the security of systems.
+
