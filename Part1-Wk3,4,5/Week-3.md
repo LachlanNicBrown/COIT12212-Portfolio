@@ -6,7 +6,7 @@ Answer:
 
 | Incident Name and Year | Brief Event Story | Impact | Type of Atack |
 |------------------------|-------------------|--------|---------------|
-| Indonesian SIM Cards - 2022 | test | test | test |
+| Indonesian SIM Cards - 2022 | Approximately 1.3 billion SIM card registrations (including ID numbers, phone numbers, and more) were obtained in a breach of the various Governmental bodies. | 1.3 billion SIM card registrations  | Hacking of "patchwork [...] data security". |
 
 ---
 Activity 2: Research the following topics and write one paragraph about each:
