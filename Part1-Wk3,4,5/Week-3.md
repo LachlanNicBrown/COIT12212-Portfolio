@@ -23,12 +23,23 @@ Threat intelligence is the collection, investigation, and sharing of information
 Structured Threat Information eXpression (STIX) and Trusted Automated eXchange of Indicator Information (TAXII) are frameworks designed to improve the shareing of cyber threat intelligence. STIX acts as a common language for cyber threat information, which allows for easier and standardised descriptions of threat actors, attack types, and other data. TAXII includes the secure and automated exchange of this data to and from different enities.
 
 ---
-Activity 3: Understand what a threat model is by reading the provided article. Describe any three threat models and give an example of each: 
-- STRIDE
-- PnG
-- Security Cards
+Activity 3: Understand what a threat model is by reading the provided article. Describe any three threat models and give an example of each.
 
 Answer:
+The threat model STRIDE was originally developed by Microsoft and helps categorise and identify potential threats. The acronym stands for:
+- Spoofing: Pretending to be something or someone else to gain unauthorised access to a resource.
+- Tampering: maliciously altering data or code.
+- Repudiation: denying an action or transaction to escape discovery or accountability.
+- Information Disclosure: leaking information to unauthorised sources.
+- Denial of Service: disrupting the availability of services to legitimate users.
+- Elevation of Privilege: gaining higher privileges than those orignially granted, gaining unauthorised access.
+For example, in an online bank system, a spoofing threat might involve an attacker impersonating a user with social engineering and phishing to gain access to their account. A tampering threat could involve data being altered mid-transaction by an attacker to redirect funds to a different account.
+
+PnG (Persona Non Grata) is a model that identifies and manages potential attackers or unwanted entities to a digital system. This concept can be used to highlight and reduce risks associated with particular types or classes of people or entities, for example internal threat actors, or external foreign agencies. By categorising and describing these entities as PnG, security measures can be put in place in advance.
+A specific example could be a previous disgrunteled internal staff member who had elevated access - the PnG profile could describe their internal access and knowledge, what credentials they had that should be changed, accounts that should be disabled, and potential threats they could pose in the future.
+
+Security Cards are a physical and novel approach to discussing and identifying threats. Acting more as a brainstorming technique, security cards can be a deck of cards with each card representing a different type of threat or vector, which can be drawn and discussed with security teams and other stakeholders.
+For example, a security card deck could contain cards that descrbe the impacts of a threat, the motivations behind carrying out an attack, the resources available to attackers, and the vectors that attackers may use.
 
 ---
 Activity 4: Describe the following concepts in one paragraph each:
