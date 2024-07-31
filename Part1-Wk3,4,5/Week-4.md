@@ -84,6 +84,7 @@ Impact on Revenue
 
 ---
 Activity 2:
+
 NIST framework readings:
 https://www.nist.gov/cyberframework/online-learning/five-functions
 https://www.nist.gov/cyberframework/online-learning/uses-and-benefits-framework
