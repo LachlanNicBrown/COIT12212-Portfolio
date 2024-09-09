@@ -153,3 +153,5 @@ ISP Failure
 |8.|Create a report detailing the outage, impact, and recovery actions.|
 |9.|Hold a debrief meeting to gather insights and improve future incident prevention and handling.|
 
+National Institute of Standards and Technology (NIST) 2021, _NIST SP 800-61, Revision 2, Computer Security Incident Handling Guide_, viewed 4 September 2024, https://www.nist.gov/privacy-framework/nist-sp-800-61
+(https://www.cyber.gov.au/resources-business-and-government/governance-and-user-education/incident-response/cyber-security-incident-response-planning-practitioner-guidance) (Whitman, M. E. & Mattord, J. J., 2018. Management of Information Security. 6th ed, s.l.:Cengage.)
