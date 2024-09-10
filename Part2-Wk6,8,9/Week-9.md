@@ -8,8 +8,6 @@ Activity 1: Assuming KH has moved all their systems to the cloud, identify the r
 
 Answer:
 
-Australian Signals Directorate 2024, _Cloud computing secrity for tenants_, viewed 9 September 2024, https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/cloud-security-guidance/cloud-computing-security-tenants/
-
 Using the framework found in the Australian Signals Directorate's "Cloud Computing Security for Tenants", the following list of relevant risks and mitigations were developed.
 
 |Risk|Reference|Mitigation|
@@ -26,3 +24,7 @@ Using the framework found in the Australian Signals Directorate's "Cloud Computi
 |KH systems compromised by malware or other vulnerabilities in SaaS applications|1 - SaaS|Encrypt all sensitive health information stored in cloud-based telehealth, pathology and pharmacy systems to protect patient data even if the SaaS platform is compromised.|
 |Cloud service unavailable due to geniune spike in demand or denial of service|2 - SaaS|Implement DDoS mitigation and use scalable resources to ensure uninterupted services during peak periods.|
 |Financial consequences of genuine spike in demand or bandwidth/CPU DDos attack|17 - General|Monitor cloud usage and set reasonable spending limits for telehealth and pathology systems to avoid unexpected costs from spikes in demand or DDoS attacks.|
+
+Australian Signals Directorate 2024, _Cloud computing secrity for tenants_, viewed 9 September 2024, https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/cloud-security-guidance/cloud-computing-security-tenants/
+
+Whitman, M. E. & Mattord, J. J., 2018. Management of Information Security. 6th ed, s.l.:Cengage.
