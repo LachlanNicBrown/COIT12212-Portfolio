@@ -12,7 +12,7 @@ Using the framework found in the Australian Signals Directorate's "Cloud Computi
 
 |Risk|Reference|Mitigation|
 |---|---|---|
-|Overarching failure to maintain the confidentiality, integrity, and availability of patient data|1- General|Use a cloud service assessby an IRAP assessor every 24 months, addressing mitigations in the Cloud Computing Security publication. Ensure senior management directs security activities. Test KH's incident response plan annually, covering patient data breaches.|
+|Overarching failure to maintain the confidentiality, integrity, and availability of patient data|1- General|Use a cloud service that is assessed by an assessor every 24 months, addressing mitigations in the Cloud Computing Security publication. Ensure senior management directs security activities. Test KH's incident response plan annually, covering patient data breaches.|
 |Compromise of patient data during transit by malicious actors|4 - General|Use strong TLS/IPsec encryption for securing patient data, such as appointment booking, video consultations, and the transmition of test results.|
 |Cloud service credentials (e.g. doctor's access details) compromised by a malicious third party|6 - General|Enforce multi-factor authentication for KH staff accessing patient data or systems. Avoid exposing sensitive passwords and API keys for telehealth pathology, and pharmacy services.|
 |Patient data compromised by malicious cloud service provider (CSP) staff|9 - General|Regularly review access logs from KH cloud based systems to detect any suspicious activity or unauthorised access.|
